@@ -17,3 +17,14 @@ These two commands are essential to Git and are the commands to move to the stag
 git init commands
 
 I've included this command due to its imprtance in the Git process. Since it turns a folder into a Git repository, it is an essential command for any Git user. It creates a hidden .git folder that stores all history for the code on your machine.
+
+
+ Backup: Your code is safe even if your laptop dies
+
+    Sharing: Send a link instead of a zip file
+
+    Collaboration: Work on the same project with classmates
+
+    Portfolio: Employers look at your GitHub profile
+
+I added these concepts to show the importance of GitHub and to show why it is required in the professional industy.

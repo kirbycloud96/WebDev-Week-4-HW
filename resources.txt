@@ -1,0 +1,19 @@
+The Key Git Concepts 
+
+Repository (Repo): A folder that Git is tracking. Contains your files plus Git's history.
+
+Staging Area: A "waiting room" for changes before they become commits. You choose what to save together.
+
+Commit: A snapshot of your project at a specific moment with a message describing what changed.
+
+I'm using the key concepts of Git as one addition to this list.
+
+The Repo, Staging Area, and Commit concepts are the key elements to understanding how Git works. It gives you a general understanding of "How Git works".
+
+git add/ git commit 
+
+These two commands are essential to Git and are the commands to move to the staging area and store code in the repo.
+
+git init commands
+
+I've included this command due to its imprtance in the Git process. Since it turns a folder into a Git repository, it is an essential command for any Git user. It creates a hidden .git folder that stores all history for the code on your machine.

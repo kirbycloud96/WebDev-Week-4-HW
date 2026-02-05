@@ -42,3 +42,5 @@ git checkout <hash> # Explore old commit
 git checkout main # Return to latest version
 
 I just pushed my first repo to GitHub!
+
+This is my lazy commit message!

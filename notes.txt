@@ -1,0 +1,5 @@
+In this week I learned why Git and GitHub are important both for my class and for the professional environment. I learned about how Git will act as a journal for version control and how GitHub will act as an online Portfolio.
+
+I also learned how to create a repository, stage my code, commit my code, and push the code to GitHub.
+
+Finally, I learned about the difference when using Git locally on my machine and how when I push my code and files it will live in the cloud for others to review if it is set to public.

@@ -1,0 +1,12 @@
+In this lesson we have used git config --global --list to ensure we have configured git
+
+Reviewed pwd, ls, cd, mkdir, touch, and code .
+
+used git init to initialize git repo 
+
+ls -a to view created git repo
+
+used git status to view status of git (ensured it was ready to receive code)
+
+used touch to create learning.txt
+

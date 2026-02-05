@@ -10,3 +10,7 @@ used git status to view status of git (ensured it was ready to receive code)
 
 used touch to create learning.txt
 
+I am learning Git fundamentals.
+Git tracks every change I make.
+I can commit my work to save progress.
+
